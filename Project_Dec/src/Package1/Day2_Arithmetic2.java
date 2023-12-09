@@ -32,7 +32,7 @@ public class Day2_Arithmetic2
 	public static void main(String[] args) 
 	{
 		Day2_Arithmetic2 obj=new Day2_Arithmetic2();
-		int divResult=obj.div(10, 2);
+		int divResult=obj.div(10, 5);
 		int subResult=obj.sub(divResult, 2);
 		int sumResult=obj.sum(subResult, 2);
 		int subResult1=obj.sub(sumResult, 2);
